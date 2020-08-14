@@ -10,7 +10,7 @@ The user can write any country name and the bot will respond with the number of 
 
 ![alt text](https://github.com/Dalal7/Covid_Telegram_Chatbot/blob/master/Conversation.PNG)
 
-## resources
+## Resources
 
 https://www.worldometers.info/coronavirus
 
